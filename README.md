@@ -19,3 +19,6 @@ This project analyzes retail sales performance using Power BI. The dashboard pro
 
 ## Author
 Aryasree V R
+## Dashboard Preview
+
+![Retail Sales Dashboard](powerbi_dash.png)
